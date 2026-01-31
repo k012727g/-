@@ -53,7 +53,7 @@ fi
 echo ""
 
 # Show modified files
-echo "✏️  Modified Files (not staged):"
+echo "✏️ Modified Files (not staged):"
 if [ -n "$(git diff --name-only)" ]; then
     git diff --name-only
 else
