@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+logs/
+
+# Personal sensitive data (uncomment if needed)
+# *_personal.md
+# *_private.txt
+# *_sensitive.*
+
+# Backup files
+*.bak
+*.backup
+*_backup.*
+
+# Office temporary files
+~$*
+*.lnk
