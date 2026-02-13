@@ -42,7 +42,14 @@ git log --oneline -5
 
 本项目包含了 fork openxc/uds-c 仓库的完整指南和工具。
 
-### 快速开始
+### 🚀 快速开始
+
+最简单的方法：
+1. 访问 https://github.com/openxc/uds-c
+2. 点击右上角的 **Fork** 按钮
+3. 完成！
+
+更多选项：
 
 **方法 1: 使用交互式脚本 (推荐)**
 
@@ -58,8 +65,10 @@ git log --oneline -5
 
 **方法 2: 查看详细文档**
 
-- [中文完整指南](FORK_GUIDE.md) - Fork openxc/uds-c 仓库的详细步骤
-- [English Guide](FORK_GUIDE_EN.md) - Complete guide in English
+- 📖 [快速开始指南](QUICKSTART.md) - 最快的 fork 方法
+- 📋 [完成检查清单](FORK_CHECKLIST.md) - 逐步检查确保成功
+- 📚 [中文完整指南](FORK_GUIDE.md) - Fork openxc/uds-c 仓库的详细步骤
+- 📚 [English Guide](FORK_GUIDE_EN.md) - Complete guide in English
 
 ### 关于 openxc/uds-c
 
