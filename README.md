@@ -79,6 +79,7 @@ git log --oneline -5
 
 ### 资源链接
 
+- 📑 [资源汇总](FORK_RESOURCES.md) - 所有文档和工具的完整索引
 - [GitHub Fork 官方文档](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - [GitHub CLI 文档](https://cli.github.com/manual/)
 - [openxc/uds-c 仓库](https://github.com/openxc/uds-c)
